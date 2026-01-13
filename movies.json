@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Cineby (الأفضل حالياً)",
+    "poster": "https://www.cineby.app/apple-touch-icon.png",
+    "url": "https://www.cineby.app"
+  },
+  {
+    "name": "Vidsrc (قاعدة بيانات ضخمة)",
+    "poster": "https://vidsrc.to/favicon.ico",
+    "url": "https://vidsrc.to/trending"
+  },
+  {
+    "name": "Fmovies (واجهة ممتازة)",
+    "poster": "https://fmovies.ps/favicon.ico",
+    "url": "https://fmovies.ps/home"
+  },
+  {
+    "name": "HiAnime (قسم الأنمي)",
+    "poster": "https://hianime.to/favicon.ico",
+    "url": "https://hianime.to/home"
+  },
+  {
+    "name": "Tubi TV (قانوني ومجاني)",
+    "poster": "https://tubitv.com/favicon.ico",
+    "url": "https://tubitv.com"
+  },
+  {
+    "name": "LookMovie",
+    "poster": "https://lookmovie.foundation/favicon.ico",
+    "url": "https://lookmovie.foundation"
+  }
+]
